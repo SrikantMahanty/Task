@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="titles_will_be_displayed_here">Titles will be displayed here</string>
+    <string name="description_will_be_displayed_here">Description will be displayed here</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+</resources>
